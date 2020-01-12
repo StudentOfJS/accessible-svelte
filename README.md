@@ -1,9 +1,6 @@
 # accessible-svelte
 
-Accessible components for Svelte.
-
-- light weight
-- no default styling
+Accessible components for Svelte
 
 ## Starting 🚀
 
