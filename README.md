@@ -1,4 +1,4 @@
-# accessible-svelte"
+# accessible-svelte
 
 Accessible components for Svelte.
 
@@ -13,11 +13,11 @@ Accessible components for Svelte.
 
 _To install using yarn_
 
-`yarn add accessible-svelte"`
+`yarn add accessible-svelte`
 
 _or npm_
 
-`npm i accessible-svelte"`
+`npm i accessible-svelte`
 
 ## Components
 
