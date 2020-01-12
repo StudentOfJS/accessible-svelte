@@ -23,6 +23,9 @@ _or npm_
 _provides context to screen readers while being visually hidden, this is especially important when using icons without accompanying text_
 
 ```
+<script>
+  import { VisuallyHidden } from "accessible-svelte"
+</script>
 <button>
   <VisuallyHidden text="close" />
   <svg
@@ -44,7 +47,9 @@ _provides context to screen readers while being visually hidden, this is especia
 _Add the aria-hidden to your svg or alt="" to an img and add your pass your text to the component_
 
 ```
-
+<script>
+  import { IconOnlyButton } from "accessible-svelte"
+</script>
 <IconOnlyButton text="close" reset onclick={e => console.log(e)}>
   <svg
     xmlns="http://www.w3.org/2000/svg"
