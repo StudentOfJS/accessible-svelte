@@ -1,6 +1,10 @@
 # accessible-svelte
 
+<<<<<<< HEAD
 Accessible components for Svelte
+=======
+Accessible components for Svelte.
+>>>>>>> initial build
 
 ## Starting 🚀
 
